@@ -1,0 +1,5 @@
+{
+  "name": "N-of-1: The Bio-Debugger",
+  "description": "A statistical analysis tool for biohackers to validate health interventions using Mann-Whitney U tests and Cohen's d effect sizes.",
+  "requestFramePermissions": []
+}
