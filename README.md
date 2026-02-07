@@ -96,4 +96,4 @@ This project is open source and available under the [MIT License](https://openso
 
 ### Author
 
-Built by [mt1ns1de](https://www.linkedin.com/in/tilmatochek/). 
+Built by [Roman](https://www.linkedin.com/in/tilmatochek/). 
